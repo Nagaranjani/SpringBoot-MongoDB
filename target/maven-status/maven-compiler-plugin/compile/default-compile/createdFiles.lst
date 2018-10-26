@@ -1,0 +1,5 @@
+io/Customers/repository/CustomerRepository.class
+io/Customers/CustomersAPI.class
+io/Customers/login/LoginController.class
+io/Customers/login/CustomerService.class
+io/Bean/Customer.class
